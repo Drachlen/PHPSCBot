@@ -14,3 +14,12 @@ The PHP script runs in a command line. It connects via a socket to the BWAPI, wh
 BWAPI and the bot communicate back and forth over the socket.
 
 The script interprets the data based on the BWAPI protocol and issues commands back through the socket to be executed inside the game itself.
+
+BWAPI:
+=========
+Information on the API can be found here:
+
+https://code.google.com/p/bwapi/
+
+https://github.com/bwapi/bwapi
+
